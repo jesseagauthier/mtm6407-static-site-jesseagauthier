@@ -28,14 +28,21 @@ I'm a technically minded professional with diverse experience in full-stack deve
     </div>
 </div>
 
-### TLDR
+## Experience
 
-<ul class="list-disc list-inside">
-<li>Seeking Web development roles in growth-oriented, mentorship-focused organizations.</li>
-<li>Pursuing a degree in Interactive Media at Algonquin College, anticipating graduation in March 2024.</li>
-<li>Pioneered dynamic redevelopment of County Cooperage's Shopify platform, boosting sales by 320% in three months.</li>
-<li>Crafted bespoke Shopify theme for brand consistency and enhanced user experience.</li>
-</ul>
+<div id="experience_ctn">
+    <div>
+        <h3>Junior Web Developer @ The County Cooperage</h3>
+        <span>2023 - Present</span>
+        <p>Developed and deployed robust web applications, leveraging HTML, CSS, JavaScript, jQuery, AJAX, and PHP. Resolved cross-browser compatibility issues to ensure seamless functionality across IE, Chrome, Firefox, and Safari. Maintained and updated website content, guaranteeing adherence to accessibility and security standards. Utilized browser debugging tools to troubleshoot and correct coding errors. Integrated third-party libraries, including jQuery, React.js, and Bootstrap to enhance site interactivity and design. Conducted ongoing research on emerging web development trends to stay ahead of industry advancements.</p>
+    </div>
+    <div>
+        <h3>WordPress Developer - Team Second @ GottaGo! Ottawa</h3>
+        <span>2024 - Contract</span>
+        <p>Aligned website objectives with overall business strategy through close collaboration with cross-functional teams. Directed end-to-end UX/UI design lifecycle, prioritizing usability, accessibility, and responsive design, from conceptualization to high-fidelity prototyping. Tailored WordPress themes and plugins to project specifications, harmonizing aesthetics with functionality. Conducted thorough user research and usability testing to refine design solutions. Oversaw version control and facilitated code reviews to uphold team-wide code quality standards.</p>
+    </div>
+
+</div>
 
 ## Let's Chat
 

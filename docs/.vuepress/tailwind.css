@@ -96,3 +96,19 @@ button[type='submit']:hover {
 #education_ctn div * {
 	all: unset;
 }
+
+#experience_ctn {
+	display: flex;
+	align-items: center;
+}
+
+#experience_ctn div {
+	padding: 10px;
+}
+
+@media screen and (max-width: 600px) {
+	#experience_ctn,
+	#education_ctn {
+		flex-direction: column;
+	}
+}
