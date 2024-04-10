@@ -4,25 +4,31 @@
 
 </div>
 
-<div class="mx-auto max-w-4xl mt-6 text-lg text-gray-700">
-
-Welcome to my portfolio! I'm a Front End Developer with a passion for creating beautiful and functional websites.
-
-</div>
-
-## Seeking Full Time Positions
-
-<div class="bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4" role="alert">
-  
-I am currently seeking full-time positions with immediate availability. Let's connect if you have an opportunity that might be a good fit!
-
+<div class="checkout_ctn">
+<p>Check Out My Projects</p>
+<a href='/projects'>Projects</a>
 </div>
 
 ## About Me
 
 I'm a technically minded professional with diverse experience in full-stack development, specializing in front-end technologies like HTML, CSS, and JavaScript, as well as back-end frameworks such as Node.js and Express.js. I'm well-versed in developing responsive and user-friendly web applications, with a keen eye for design and usability.
 
-### TLDR:
+## Education
+
+<div id="education_ctn">
+    <div>
+        <h3>Interactive Media Design</h3>
+        <h4>Algonquin College</h4>
+        <span>2022-2024</span>
+    </div>
+    <div>
+        <h3>Web Development and Internet Applications</h3>
+        <h4>Fanshawe College</h4>
+        <span>2024-2026</span>
+    </div>
+</div>
+
+### TLDR
 
 <ul class="list-disc list-inside">
 <li>Seeking Web development roles in growth-oriented, mentorship-focused organizations.</li>

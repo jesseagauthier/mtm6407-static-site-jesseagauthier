@@ -1,28 +1,98 @@
 .theme-default-content {
-  max-width: 80vw !important;
+	max-width: 80vw !important;
 }
 
 .project_ctn {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
 }
 
 @media screen and (max-width: 600px) {
-  .project_ctn {
-    flex-direction: column;
-  }
+	.project_ctn {
+		flex-direction: column;
+	}
 }
 
 .project_ctn > div {
-  flex-basis: 30%;
+	flex-basis: 30%;
 }
 
 .project_ctn > div img {
-  width: 100%;
-  min-width: 400px;
+	width: 100%;
+	min-width: 400px;
 }
 
 .project h2 {
-  text-align: center;
+	text-align: center;
+}
+
+form {
+	max-width: 500px;
+	margin: auto;
+}
+
+label {
+	display: block;
+	margin-bottom: 8px;
+}
+
+input[type='text'],
+input[type='email'],
+textarea {
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 16px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+button[type='submit'] {
+	background-color: #007bff;
+	color: white;
+	padding: 10px 24px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+button[type='submit']:hover {
+	background-color: #0056b3;
+}
+
+.checkout_ctn {
+	text-align: center;
+}
+
+.checkout_ctn p {
+	margin: 10px auto;
+}
+
+.checkout_ctn a {
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+	padding: 1em;
+	display: inline-block;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#education_ctn {
+	display: flex;
+	justify-content: center;
+	gap: 15vw;
+	padding: 2em;
+}
+
+#education_ctn div {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+#education_ctn div * {
+	all: unset;
 }
