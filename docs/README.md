@@ -6,7 +6,7 @@
 
 <div class="checkout_ctn">
 <p>Check Out My Projects</p>
-<a href='/projects'>Projects</a>
+<a href='/projects.html'>Projects</a>
 </div>
 
 ## About Me

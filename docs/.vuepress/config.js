@@ -7,8 +7,8 @@ module.exports = {
 	description: "Jesse Gauthier's Portfolio",
 	themeConfig: {
 		nav: [
-			{ text: 'Home', link: '/' },
-			{ text: 'Projects', link: '/projects/' },
+			{ text: 'Home', link: '/index.html' },
+			{ text: 'Projects', link: '/projects' },
 			{ text: 'Contact', link: '/contact' },
 		],
 	},
