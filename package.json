@@ -13,8 +13,12 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.7",
     "autoprefixer": "^10.4.19",
+    "node": "^16.0.0",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "16": "^0.0.2"
   }
 }
